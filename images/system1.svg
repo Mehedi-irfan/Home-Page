@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #aeaeae;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        filter: url(#Ellipse_613);
+      }
+    </style>
+    <filter id="Ellipse_613" x="0" y="0" width="64" height="64" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_9278" data-name="Rectangle 9278" class="cls-1" width="20" height="20" transform="translate(-16449 -17279)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_20099" data-name="Group 20099" transform="translate(-144 -2923)">
+    <g class="cls-4" transform="matrix(1, 0, 0, 1, 144, 2923)">
+      <circle id="Ellipse_613-2" data-name="Ellipse 613" class="cls-2" cx="20" cy="20" r="20" transform="translate(12 9)"/>
+    </g>
+    <g id="Mask_Group_79" data-name="Mask Group 79" class="cls-3" transform="translate(16615 20221)">
+      <g id="Group_20090" data-name="Group 20090" transform="translate(-16447.035 -17278.143)">
+        <path id="rgba_0_0_0_1_" data-name="rgba(0,0,0,1)" class="cls-1" d="M332.482,0l.214.036.268.2.071.143V1.768l-.2.268-.357.107-.214-.071-.2-.2L332,1.7V.446l.071-.179.2-.2Z" transform="translate(-321.25 0)"/>
+        <path id="rgba_0_0_0_1_2" data-name="rgba(0,0,0,1)" class="cls-1" d="M217.8,5h.5l.321.143,7.446,7.446.143.321v.5l-.107.286-.268.3-.429.214h-.464l-.393-.179-7.375-7.375L217,6.268V5.8l.107-.286.3-.339Z" transform="translate(-210.357 -4.821)"/>
+        <path id="rgba_0_0_0_1_3" data-name="rgba(0,0,0,1)" class="cls-1" d="M393.589,30l.321.107.125.125.071.143V30.7l-.071.143-1.2,1.2-.321.107-.25-.071-.2-.2L392,31.554l.071-.214,1.268-1.268Z" transform="translate(-379.107 -28.929)"/>
+        <path id="rgba_0_0_0_1_4" data-name="rgba(0,0,0,1)" class="cls-1" d="M140.589,84l6.607,6.643-1.143.25-1.25.464-1.357.714-1.607,1.143L138,89.375l.071-.071.964-1.321.75-1.393.536-1.429Z" transform="translate(-134.179 -81)"/>
+        <path id="rgba_0_0_0_1_5" data-name="rgba(0,0,0,1)" class="cls-1" d="M422.482,120h1.143l.286.107.125.125.071.143v.321l-.2.268-.286.107h-1.143l-.214-.071-.2-.2-.071-.179v-.179l.071-.179.2-.2Z" transform="translate(-408.036 -115.714)"/>
+        <path id="rgba_0_0_0_1_6" data-name="rgba(0,0,0,1)" class="cls-1" d="M34.089,258l3.768,3.732-2.661,2.7-.286.214-.429.179-.607.036-.393-.107-.321-.179L31.286,262.7l-.143-.214L31,262.054v-.607l.071-.25.214-.393Zm.768,2.429-.179.036-.179.107-.857.857-.107.25v.179l.107.25.286.179h.357l.143-.071.893-.893.071-.179v-.25l-.071-.179-.143-.179Z" transform="translate(-31 -248.786)"/>
+        <path id="rgba_0_0_0_1_7" data-name="rgba(0,0,0,1)" class="cls-1" d="M196.482,347l.732.7.214.393.071.25v.607l-.071.25-.214.393-.518.554-.375.339.714.75.143.321.036.357-.179.5-.3.3-.321.143-.321.036-.321-.071-.25-.143L193,350.232l1.446-1.482.286.214.821.821.839-.839.071-.143v-.286l-.071-.179-.714-.714Z" transform="translate(-187.214 -334.607)"/>
+      </g>
+    </g>
+  </g>
+</svg>

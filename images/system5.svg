@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: #aeaeae;
+      }
+
+      .cls-1 {
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-5 {
+        filter: url(#Ellipse_613);
+      }
+    </style>
+    <filter id="Ellipse_613" x="0" y="0" width="64" height="64" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_9281" data-name="Rectangle 9281" class="cls-1" width="24" height="24" transform="translate(44 3278)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_20095" data-name="Group 20095" transform="translate(-144 -3275)">
+    <g class="cls-5" transform="matrix(1, 0, 0, 1, 144, 3275)">
+      <circle id="Ellipse_613-2" data-name="Ellipse 613" class="cls-2" cx="20" cy="20" r="20" transform="translate(12 9)"/>
+    </g>
+    <g id="Mask_Group_82" data-name="Mask Group 82" class="cls-3" transform="translate(120 14)">
+      <path id="Icon_material-school" data-name="Icon material-school" class="cls-4" d="M5.136,13.755v3.636L11.5,20.864l6.364-3.473V13.755L11.5,17.227ZM11.5,4.5,1.5,9.955l10,5.455,8.182-4.464v6.282H21.5V9.955Z" transform="translate(44.5 3277.5)"/>
+    </g>
+  </g>
+</svg>

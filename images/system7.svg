@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #aeaeae;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        filter: url(#Ellipse_613);
+      }
+    </style>
+    <filter id="Ellipse_613" x="0" y="0" width="64" height="64" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_9275" data-name="Rectangle 9275" class="cls-1" width="20" height="20" transform="translate(-18839 -17279)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_20093" data-name="Group 20093" transform="translate(-144 -3451)">
+    <g class="cls-4" transform="matrix(1, 0, 0, 1, 144, 3451)">
+      <circle id="Ellipse_613-2" data-name="Ellipse 613" class="cls-2" cx="20" cy="20" r="20" transform="translate(12 9)"/>
+    </g>
+    <g id="Mask_Group_76" data-name="Mask Group 76" class="cls-3" transform="translate(19005 20749)">
+      <path id="rgba_0_0_0_1_" data-name="rgba(0,0,0,1)" class="cls-1" d="M44.982,0h11.25l.036.036.393.036.464.179.625.518.321.536.143.571V16.411l-.071.357-.179.429-.214.321-.268.268-.429.286-.393.143-.393.036-.036.036H44.982l-.036-.036-.393-.036-.464-.179-.625-.518-.321-.536L43,16.411V1.839l.071-.321.179-.429.214-.321L43.732.5l.5-.321L44.7.036h.25Zm1.375,2.286-.5.214-.429.464L45.25,3.5V4.893l.143.5.143.214.393.321.5.179h8.393l.286-.071.321-.179.393-.464.143-.5V3.5l-.107-.393-.143-.25L55.393,2.5l-.5-.214Zm1.107,5.321-.286.143-.143.179-.071.214v.429h-.5l-.214.107L46.036,9v.321l.143.25.286.143h.5v.464l.143.321.357.179h.25l.214-.107.214-.321V9.714h.571l.143-.071L49,9.5l.107-.286-.036-.25L49,8.821l-.286-.25h-.571v-.5l-.107-.214-.214-.214ZM52.607,8.75l-.286.143-.143.179-.071.214.071.357.214.179.25.107h2.071l.25-.107.214-.286V9.179l-.071-.143-.179-.214L54.75,8.75ZM46.5,12.179l-.179.071-.286.357v.357l.071.143.607.607-.607.643-.071.143v.357l.071.143.214.179.179.071h.25l.179-.071.643-.643.607.607.214.107h.25l.286-.143.107-.143.071-.214-.071-.357-.643-.643.643-.679.071-.214-.036-.286-.107-.179-.286-.214-.393.036-.714.679-.643-.643-.179-.071Zm6.107,0-.286.143-.143.179-.071.214v.143l.107.25.179.143.25.107h2.071l.25-.107.214-.286v-.357l-.071-.143-.179-.214-.179-.071Zm.036,1.893-.214.071-.25.25-.071.214.036.286.107.179.357.179H54.75l.179-.071.25-.321V14.5l-.071-.143-.143-.179-.25-.107Z" transform="translate(-18879.607 -17278.143)"/>
+    </g>
+  </g>
+</svg>
